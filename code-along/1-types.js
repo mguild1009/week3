@@ -1,7 +1,6 @@
 // 👇 YOUR CODE BEGINS HERE. DON'T CHANGE ANY OTHER CODE. 👇
   
 // 🔥🔥🔥 YOUR CODE GOES HERE 🔥🔥🔥
-
 console.log('hello, world')
 
 //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
